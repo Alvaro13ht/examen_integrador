@@ -2,3 +2,4 @@
 
 Alvaro Huaiquilef
 Alejandro Hernandez
+Douglas Guacaran
